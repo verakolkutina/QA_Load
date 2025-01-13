@@ -26,10 +26,10 @@
    ```sh
    java -jar target/kafkalistener-0.0.1-SNAPSHOT.jar
    ```
-   запуск jar.файла 
-ссылка на приложение https://github.com/verakolkutina/kafkalistener_01.git![image](https://github.com/user-attachments/assets/073c2ab0-b64b-4060-a3a8-c15d79a70a0a)
-
-3. **Запуск JMeter-тестов:**
+запуск jar.файла по 
+ссылке на приложение 
+https://github.com/verakolkutina/kafkalistener_01.git
+4. **Запуск JMeter-тестов:**
    - Откройте `Kafka_Axen.jmx` в Apache JMeter
    - Настройка параметров подключения
    - Запуск теста 
